@@ -1,6 +1,6 @@
 # AirSwipe
 
-AirSwipe is a gesture-controlled desktop automation system that enables users to interact with their computer using hand gestures captured through a webcam. Built using Python, OpenCV, and MediaPipe, the project translates real-time hand movements into desktop actions, creating a touchless and intuitive user experience.
+AirSwipe is a gesture-controlled desktop automation system that enables cursor control, scrolling, presentation navigation, copy-paste operations, zooming, brightness adjustment, and volume control through real-time hand tracking.
 
 ## Overview
 
