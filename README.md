@@ -36,6 +36,10 @@ The project is divided into multiple modules, allowing different gesture-based f
 ## Demo
 
 A demonstration video is included in this repository, showcasing the different gesture-based controls implemented in the project.
+A demonstration of the project can be viewed here:
+
+**Google Drive Link**:
+https://drive.google.com/file/d/1aTF7ULsItt7P0hDyj4zzW-5Y45fy-zum/view?usp=sharing
 
 ## Future Improvements
 
